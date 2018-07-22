@@ -1,0 +1,32 @@
+{
+  "name": "node_course_express_server",
+  "version": "1.0.0",
+  "description": "Exemplo de como funciona um servidor node.js usando o express",
+  "main": "express-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudineyjr/node_course_express_server.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "express",
+    "nodemon",
+    "course",
+    "tutorial",
+    "server"
+  ],
+  "author": "Claudiney Junior <claudiney.jr@caquicoders.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudineyjr/node_course_express_server/issues"
+  },
+  "homepage": "https://github.com/claudineyjr/node_course_express_server#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.18.3"
+  }
+}
